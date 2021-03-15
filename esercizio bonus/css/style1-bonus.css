@@ -1,0 +1,82 @@
+body{
+    width: 1100px;
+    margin: auto;
+}
+
+
+.intestazione{
+    height: 175px;
+    background-color: lightskyblue;
+    background-image: url('img/pattern.png');
+    background-position: top;
+}
+
+#logo{
+    height: 50%;
+    margin-top: 80px;
+}
+
+main{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+footer{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+.crediti{
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+#autore{
+    color: skyblue;
+}
+
+#photo{
+    width: 47%;
+    height: 300px;
+}
+
+.evidence{
+    background-color: yellow;
+}
+
+
+
+table{
+    border: 0px solid ;
+    border-collapse: collapse;
+    text-align: left;
+  }
+
+.terza-colonna{
+    width: 50%;
+}
+
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+.blue{
+    background-color: lightblue;
+}
+
+footer{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.6);
+    margin-top: 20px;
+}
+
+
