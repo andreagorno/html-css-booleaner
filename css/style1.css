@@ -1,0 +1,48 @@
+body{
+    width: 1100px;
+    
+}
+
+
+.intestazione{
+    height: 60px;
+    background-color: lightskyblue;
+    background-image: url('img/pattern.png');
+    background-size: contain;
+}
+
+#logo{
+    height: 50%;
+    
+}
+
+#autore{
+    color: lightblue;
+}
+
+.evidence{
+    background-color: yellow;
+}
+
+table, th, td {
+    border: 0px solid ;
+    border-collapse: collapse;
+  }
+
+th{
+    background-color: blue;
+    color: white;
+}
+
+#blue{
+    background-color: lightblue;
+}
+
+footer{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.6);
+
+}
+
+
