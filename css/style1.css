@@ -7,7 +7,7 @@ body{
 .intestazione{
     height: 175px;
     background-color: lightskyblue;
-    background-image: url('img/pattern.png');
+    background-image: url('../img/pattern.png');
     background-position: top;
 }
 
